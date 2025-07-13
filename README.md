@@ -84,7 +84,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanush-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hanush-m-027991333)  
-[![Gmail](https://img.shields.io/badge/Gmail-hanushm04@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanush0112@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-hanush0112@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanush0112@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Hanush0112-333?style=for-the-badge&logo=github)]((https://github.com/Hanush0112))
 
 ---
