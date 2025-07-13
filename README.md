@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanush M</h1>
 <h3 align="center">AI Specialist | Machine Learning Engineer | GenAI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hanush0112&label=Profile%20views&color=0e75b6&style=flat" alt="Hanush0112" />
-</p>
 
 ---
 
